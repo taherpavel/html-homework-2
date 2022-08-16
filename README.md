@@ -1,2 +1,2 @@
 # html-homework-2
-sample homework for html course(class-2) 
+https://taherpavel.github.io/html-homework-2/
